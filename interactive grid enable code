@@ -1,2 +1,16 @@
 apex.region("c").call("getActions").set("edit", true);
 apex.region("c").call("getActions").hide("edit");
+
+link jha sy code lia ha 
+https://tm-apex.hashnode.dev/automatically-activate-the-edit-mode-on-page-load-interactive-grid-1
+=================================================================================================
+
+
+
+
+
+when user create master item and automatically enable interactive grid and user must have Name Enter time 1 hour
+
+create  static id in item and static id maintain and add  master detail query 
+when user enter data then static id save in item then interactive grid enbale 
+time 1 hour
